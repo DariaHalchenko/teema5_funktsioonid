@@ -1,4 +1,4 @@
-from modul1 import *
+from modull import *
 #b = int(input("siseta arv2"))
 #summa_3 = summa(3,b,int(input("kolmas arv")))
 #summa_31 = summa(100,100,100)
